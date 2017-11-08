@@ -1,0 +1,2 @@
+﻿  faceDetect.cpp
+c:\users\carlos\documents\visual studio 2017\projects\facedetect\facedetect\facedetect.cpp(2): fatal error C1083: No se puede abrir el archivo incluir: 'opencv2\imgcodecs.hpp': No such file or directory
